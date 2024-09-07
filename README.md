@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @miljanvukotic
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 miljanvukotic/miljanvukotic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sara Lalovic Vukotic - Tehničar hortikulture</title>
+    <title>Plan B - Masinska radionica </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -64,8 +58,8 @@ You can click the Preview link to take a look at your changes.
 </head>
 <body>
     <header>
-        <h1>Sara Lalovic Vukotic</h1>
-        <p>Tehničar hortikulture | Cvećar</p>
+        <h1>Branislav Milinkovic</h1>
+        <p>Varenje i Bravarija | Masinski radovi</p>
     </header>
 
     <section>
@@ -75,10 +69,7 @@ You can click the Preview link to take a look at your changes.
         </div>
 
         <div class="experience">
-            <h2>Iskustvo i veštine</h2>
-            <p>Tehničar hortikulture sa preko 10 godina iskustva u cvećarству.</p>
-            <p>Specijalizacija: rad sa biljkama, aranжирање цвећа и баштованство.</p>
-        </div>
+            
     </section>
 
     <footer>
