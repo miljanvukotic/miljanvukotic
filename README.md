@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
     <section>
         <div class="info">
             <h2>Kontakt</h2>
-            <p>Email: <a href="mailto:lalovicsara@gmail.com" style="color: #ffd700;">lalovicsara@gmail.com</a></p>
+            <p>Email: <a href="mailto:vukoticmiljan@gmail.com" style="color: #ffd700;">lalovicsara@gmail.com</a></p>
         </div>
 
         <div class="experience">
